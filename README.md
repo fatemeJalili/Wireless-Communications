@@ -2,29 +2,29 @@
 This repository contains the code and documentation for the Wireless Communications course assignments, including computer assignments and the final presentation.
 
 ## Computer Assignment 1
-### Part 1 
-- Modeled and analyzed **path loss** and **shadowing** effects on received signal power. 
+#### Part 1 
+- Modeled and analyzed **Path Loss** and **Shadowing** effects on received signal power. 
   
   <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/user-attachments/assets/5896f6c8-b802-44c1-a38b-c945dc9a6b39" height="200">
     <img src="https://github.com/user-attachments/assets/8a64ca88-2d63-4d83-8c86-c59d330b8507" height="200">
   </div>
 - Assessed **outage probability**. 
-- Compared theoretical and simulated **network coverage areas**.
+- Compared theoretical and simulated **Network Coverage Areas**.
 
-### Part 2
+#### Part 2
 
-- Simulated **Rayleigh fading channels** with multipath propagation. 
+- Simulated **Rayleigh Fading Channels** with multipath propagation. 
   
   <img src="https://github.com/user-attachments/assets/8fe62940-ac01-439e-8fef-56715ebb940b" height="250">
   
-- Examined **channel frequency response** over a specified bandwidth.
+- Examined **Channel Frequency Response** over a specified bandwidth.
 
-### Part 3 
-- Computed and analyzed **average** and **RMS delay spread** in a given **power delay profile(PDP)**.
+#### Part 3 
+- Computed and analyzed **Average** and **RMS Delay Spread** in a given **Power Delay Profile(PDP)**.
 
-### Part 4 
-- Implemented **Gradient Ascent** for optimal **power allocation** in multi-user networks.
+#### Part 4 
+- Implemented **Gradient Ascent** for optimal **Power Allocation** in multi-user networks.
   
   <img src="https://github.com/user-attachments/assets/87254ccc-3ef4-4836-a53e-b18c8b437350" height="300">
 
