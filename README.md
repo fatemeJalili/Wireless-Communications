@@ -56,7 +56,7 @@ This repository contains the code and documentation for the Wireless Communicati
 #### Part 1
 - Simulated an **OFDM** system over a multipath **Fequency-Selective** channel.
 - Implemented **Waterfilling** power allocation across subcarriers.
-- Implemented **ZF (Zero Forcing)** and **MMSE (Minimum Mean Square Error)** equalization at the receiver, comparing their performance based on BER.
+- Implemented **ZF (Zero Forcing)** and **MMSE (Minimum Mean Square Error)** equalization at the receiver.
 - Investigated the effect of **Clipping**.
   
   <img src="https://github.com/user-attachments/assets/541f4606-91e6-462d-8a95-ff3903ae0e4f" height="250">
