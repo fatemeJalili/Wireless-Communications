@@ -38,8 +38,12 @@ This repository contains the code and documentation for the Wireless Communicati
 
 
 #### Part 2
-- Implemented **time diversity** by repeating symbols across multiple time slots.
-- Evaluated optimal **decision-making** for **BPSK** modulated symbols in terms of SNR.
+- Implemented **Time Diversity** by repeating symbols across multiple time slots.
+- Evaluated optimal **Decision-making** for **BPSK** modulated symbols in terms of **SNR**.
+  
+  <img src="https://github.com/user-attachments/assets/93fd4f2e-c1bf-496f-8f5d-3f49db553e57" height="250">
+
+
 
 #### Part 3
 - Simulated **space diversity** with multiple antennas at the receiver using **Alamouti coding**.
