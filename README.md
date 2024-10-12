@@ -3,7 +3,7 @@ This repository contains the code and documentation for the Wireless Communicati
 
 ## Computer Assignment 1
 - Part 1 \ 
-  Modeled and analyzed **path loss** and **shadowing** effects on received signal power. 
+  Modeled and analyzed **path loss** and **shadowing** effects on received signal power. \ 
     
     <div style="display: flex; justify-content: space-between;">
       <img src="https://github.com/user-attachments/assets/5896f6c8-b802-44c1-a38b-c945dc9a6b39" height="200">
@@ -13,9 +13,10 @@ This repository contains the code and documentation for the Wireless Communicati
   Compared theoretical and simulated **network coverage areas**.
 
 - Part 2 \
-  Simulated **Rayleigh fading channels** with multipath propagation.
+  Simulated **Rayleigh fading channels** with multipath propagation. \
     
     <img src="https://github.com/user-attachments/assets/8fe62940-ac01-439e-8fef-56715ebb940b" height="250">
+    
   Examined **channel frequency response** over a specified bandwidth.
 
 - Part 3 \
