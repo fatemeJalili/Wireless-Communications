@@ -23,17 +23,15 @@ This repository contains the code and documentation for the Wireless Communicati
 ## Computer Assignment 2
 
 - Part 1
-  - Simulated Maximum Ratio Combining (MRC) for a receiver with varying branches in a Rayleigh fading environment.
-  - Plotted Bit Error Rate (BER) versus SNR for different branch numbers in 16-QAM modulation.
-  - Compared performance for M=1, 2, 4, 8 branches and analyzed the impact of increasing diversity on BER.
+  - Simulated **Maximum Ratio Combining (MRC)** for a receiver with varying branches in a **Rayleigh fading** environment.
+  - Plotted **Bit Error Rate (BER)** versus SNR for different branch numbers in **16-QAM** modulation.
 
 - Part 2
-  - Implemented time diversity by repeating symbols across multiple time slots.
-  - Evaluated optimal decision-making for BPSK modulated symbols in terms of SNR.
-  - Analyzed the error probability for various repetition factors and simulated the results for comparison.
+  - Implemented **time diversity** by repeating symbols across multiple time slots.
+  - Evaluated optimal **decision-making** for **BPSK** modulated symbols in terms of SNR.
 
 - Part 3
-  - Simulated space diversity with multiple antennas at the receiver using Alamouti coding.
+  - Simulated **space diversity** with multiple antennas at the receiver using **Alamouti coding**.
   - Assessed the performance of the Alamouti scheme in terms of error probability under BPSK modulation.
   - Extended analysis to QPSK and 16-QAM modulations and compared the outcomes.
 
