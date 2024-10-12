@@ -9,14 +9,13 @@ This repository contains the code and documentation for the Wireless Communicati
       <img src="https://github.com/user-attachments/assets/5896f6c8-b802-44c1-a38b-c945dc9a6b39" height="200">
       <img src="https://github.com/user-attachments/assets/8a64ca88-2d63-4d83-8c86-c59d330b8507" height="200">
     </div>
-  - Evaluated **SNR** variations with distance and environmental factors.
-  - Assessed **outage probability** in a cellular network.
+  - Assessed **outage probability**.
   - Compared theoretical and simulated **network coverage areas**.
 
 - Part 2
   - Simulated **Rayleigh fading channels** with multipath propagation.
     
-    <img src="https://github.com/user-attachments/assets/8fe62940-ac01-439e-8fef-56715ebb940b" height="200">
+    <img src="https://github.com/user-attachments/assets/8fe62940-ac01-439e-8fef-56715ebb940b" height="250">
   - Examined **channel frequency response** over a specified bandwidth.
 
 - Part 3
@@ -24,8 +23,7 @@ This repository contains the code and documentation for the Wireless Communicati
 
 - Part 4
   - Implemented **Gradient Ascent** for optimal **power allocation** in multi-user networks.
-  - Evaluated **SINR** and its impact on network performance.
-
+    <img src="https://github.com/user-attachments/assets/87254ccc-3ef4-4836-a53e-b18c8b437350" height="400">
 
 ## Computer Assignment 2
 
