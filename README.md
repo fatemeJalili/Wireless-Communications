@@ -61,4 +61,12 @@ This repository contains the code and documentation for the Wireless Communicati
   
   <img src="https://github.com/user-attachments/assets/541f4606-91e6-462d-8a95-ff3903ae0e4f" height="250">
 
+---
+## Presentation
+As part of my wireless communications course, I carefully read and presented the paper [Clustering-Based Activity Detection Algorithms for Grant-Free Random Access in Cell-Free Massive MIMO](https://ieeexplore.ieee.org/document/9507457) by **Emil Björnson**, **Erik G. Larsson**, and **Unnikrishnan Kunnath Ganesan**. You can find my presentation slides [here](https://www.canva.com/design/DAGKZoX9lE4/4sRfkjlM8lVUDxmPJczWkA/view?utm_content=DAGKZoX9lE4&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+
+<img src="https://github.com/user-attachments/assets/94e47e7e-fe5b-408d-b909-b7624dc4362a" height="350">
+
+
+
 
