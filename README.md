@@ -15,7 +15,7 @@ This repository contains the code and documentation for the Wireless Communicati
 - Part 3
   - Computed and analyzed **average** and **RMS delay spread** in a given **power delay profile(PDP)**.
 
-- Part 4:
+- Part 4
   - Implemented **Gradient Ascent** for optimal **power allocation** in multi-user networks.
   - Evaluated **SINR** and its impact on network performance.
 
