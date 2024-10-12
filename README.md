@@ -15,6 +15,8 @@ This repository contains the code and documentation for the Wireless Communicati
 
 - Part 2
   - Simulated **Rayleigh fading channels** with multipath propagation.
+    
+    <img src="https://github.com/user-attachments/assets/8fe62940-ac01-439e-8fef-56715ebb940b" height="200">
   - Examined **channel frequency response** over a specified bandwidth.
 
 - Part 3
