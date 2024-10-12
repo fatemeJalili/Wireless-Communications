@@ -9,7 +9,7 @@ This repository contains the code and documentation for the Wireless Communicati
     <img src="https://github.com/user-attachments/assets/5896f6c8-b802-44c1-a38b-c945dc9a6b39" height="200">
     <img src="https://github.com/user-attachments/assets/8a64ca88-2d63-4d83-8c86-c59d330b8507" height="200">
   </div>
-- Assessed **outage probability**. 
+- Assessed **Outage Probability**. 
 - Compared theoretical and simulated **Network Coverage Areas**.
 
 #### Part 2
@@ -31,8 +31,11 @@ This repository contains the code and documentation for the Wireless Communicati
 ## Computer Assignment 2
 
 - Part 1
-  - Simulated **Maximum Ratio Combining (MRC)** for a receiver with varying branches in a **Rayleigh fading** environment.
+  - Simulated **Maximum Ratio Combining (MRC)** for a receiver with varying branches in a **Rayleigh Fading** environment.
   - Plotted **Bit Error Rate (BER)** versus SNR for different branch numbers in **16-QAM** modulation.
+    
+  <img src="https://github.com/user-attachments/assets/c19e1f7c-e804-4597-8ff6-20a7283dbb4a" height="250">
+
 
 - Part 2
   - Implemented **time diversity** by repeating symbols across multiple time slots.
