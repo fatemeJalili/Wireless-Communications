@@ -23,7 +23,8 @@ This repository contains the code and documentation for the Wireless Communicati
 
 - Part 4
   - Implemented **Gradient Ascent** for optimal **power allocation** in multi-user networks.
-    <img src="https://github.com/user-attachments/assets/87254ccc-3ef4-4836-a53e-b18c8b437350" height="400">
+    
+    <img src="https://github.com/user-attachments/assets/87254ccc-3ef4-4836-a53e-b18c8b437350" height="300">
 
 ## Computer Assignment 2
 
