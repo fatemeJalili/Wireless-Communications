@@ -4,6 +4,7 @@ This repository contains the code and documentation for the Wireless Communicati
 ## Computer Assignment 1
 - Part 1
   - Modeled and analyzed **path loss** and **shadowing** effects on received signal power.
+    
     <div style="display: flex; justify-content: space-between;">
       <img src="https://github.com/user-attachments/assets/5896f6c8-b802-44c1-a38b-c945dc9a6b39" height="200">
       <img src="https://github.com/user-attachments/assets/8a64ca88-2d63-4d83-8c86-c59d330b8507" height="200">
