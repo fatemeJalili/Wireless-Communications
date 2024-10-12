@@ -39,21 +39,26 @@ This repository contains the code and documentation for the Wireless Communicati
 
 #### Part 2
 - Implemented **Time Diversity** by repeating symbols across multiple time slots.
-- Evaluated optimal **Decision-making** for **BPSK** modulated symbols in terms of **SNR**.
+- Evaluated optimal **Decision-Making** for **BPSK** modulated symbols in terms of **SNR**.
   
   <img src="https://github.com/user-attachments/assets/93fd4f2e-c1bf-496f-8f5d-3f49db553e57" height="250">
 
 
-
 #### Part 3
-- Simulated **space diversity** with multiple antennas at the receiver using **Alamouti coding**.
+- Simulated **Space Diversity** with multiple antennas at the receiver using **Alamouti Coding**.
 - Assessed the performance of the Alamouti scheme in terms of error probability under **BPSK, QPSK** and **16-QAM** modulation.
+  
+  <img src="https://github.com/user-attachments/assets/73b49f08-ea51-4765-a45b-2bc1f8365aef" height="250">
 
 
 ## Computer Assignment 3
 
-- Part 1
-  - Simulated an **OFDM** system over a multipath **frequency-selective** channel.
-  - Implemented **waterfilling** power allocation across subcarriers.
-  - Implemented **ZF (Zero Forcing)** and **MMSE (Minimum Mean Square Error)** equalization at the receiver, comparing their performance based on BER.
-  - Investigated the effect of **clipping**.
+#### Part 1
+- Simulated an **OFDM** system over a multipath **Fequency-Selective** channel.
+- Implemented **Waterfilling** power allocation across subcarriers.
+- Implemented **ZF (Zero Forcing)** and **MMSE (Minimum Mean Square Error)** equalization at the receiver, comparing their performance based on BER.
+- Investigated the effect of **Clipping**.
+  
+  <img src="https://github.com/user-attachments/assets/541f4606-91e6-462d-8a95-ff3903ae0e4f" height="250">
+
+
