@@ -12,7 +12,8 @@ This repository contains the code and documentation for the Wireless Communicati
   Assessed **outage probability**. \
   Compared theoretical and simulated **network coverage areas**.
 
-- Part 2 
+- Part 2
+  
   Simulated **Rayleigh fading channels** with multipath propagation. \
     
     <img src="https://github.com/user-attachments/assets/8fe62940-ac01-439e-8fef-56715ebb940b" height="250">
